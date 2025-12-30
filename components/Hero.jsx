@@ -116,7 +116,7 @@ const Hero = () => {
               View Projects
             </motion.button>
             <motion.a
-              href="/resume.pdf"
+              href="public\RenderCV_EngineeringResumes_Theme (6).pdf"
               download
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
