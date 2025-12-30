@@ -61,7 +61,7 @@ const Projects = () => {
         { name: 'JDBC', icon: <FaDatabase />, color: 'text-blue-500' },
         { name: 'MySQL', icon: <SiMysql />, color: 'text-blue-600' },
       ],
-      githubLink: '#',
+      githubLink: 'https://github.com/sachinyb/bank-management-system.git',
       category: 'Desktop Application',
     },
   ]
